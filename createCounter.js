@@ -12,3 +12,6 @@ function createCounter(n){            // function declaration of createCouter fn
         
     }
 }
+
+
+ ** 
