@@ -1,5 +1,6 @@
-/* Given an array of students, sort first by graduated then by grade like in the example above.
-Each object in the students array will have properties id, graduated and grade */ 
+/*Given an array of students, sort first by graduated then by grade.
+Each object in the students array will have properties id, graduated and grade. 
+*/
 
 function sortStudents(students) {
     return students.sort( (a,b) => {
